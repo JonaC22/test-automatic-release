@@ -3,7 +3,7 @@ name: generate-release
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   generate_release:
